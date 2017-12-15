@@ -2421,7 +2421,7 @@ ul.social-icons li a i {
 }
 
 @media screen and (max-width: 800px) {
-   .logo-nuaa-toggle, .footer-col-2,.footer-col-1-1,.header-site__logo img {
+   .logo-nuaa-toggle,.hideone, .footer-col-2,.footer-col-1-1,.header-site__logo img {
         display: none !important
     }
 
@@ -2441,6 +2441,8 @@ ul.social-icons li a i {
      height:auto;
    }
 }
+
+
 .header-site__logo_GDN{
   width:200px;
   height:80px;
@@ -2457,3 +2459,5 @@ ul.social-icons li a i {
     display: block;
   }
 }
+
+
